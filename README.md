@@ -11,10 +11,10 @@ Stass is a comprehensive, security-first legal practice management system and de
 ## System Interface Gallery
 
 ### Practice Dashboards & Operational Activity Feed
-<p align="center">
-  <img src="Assets/01-dashboard.png" alt="Fee Earner Personal Dashboard" width="49%">
-  <img src="Assets/02-firm-dashboard.png" alt="Firm-Wide Executive Dashboard" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/01-dashboard.png" alt="Fee Earner Personal Dashboard" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/02-firm-dashboard.png" alt="Firm-Wide Executive Dashboard" width="100%"></td>
+</tr></table>
 <p align="center">
   <img src="Assets/03-firm-feed.png" alt="Real-Time Firm Activity Feed">
 </p>
@@ -24,28 +24,28 @@ Stass is a comprehensive, security-first legal practice management system and de
 - **Real-Time Firm Activity Feed:** An audited chronological feed capturing authentication events, document access, calendar updates, and workflow state transitions across the firm.
 
 ### Matter & Case Administration
-<p align="center">
-  <img src="Assets/06-matters.png" alt="Legal Matters Register" width="49%">
-  <img src="Assets/07-matter-detail.png" alt="Matter Detail and Workspace" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/06-matters.png" alt="Legal Matters Register" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/07-matter-detail.png" alt="Matter Detail and Workspace" width="100%"></td>
+</tr></table>
 
 - **Matters Register:** Filterable index of all active, open, pending, and closed legal matters categorized by matter type (Commercial Property, Litigation, Immigration, Wills & Probate, Corporate) with supervising solicitor tags.
 - **Matter Detail Workspace:** Full matter workspace detailing client references, supervising partners, fee earner allocations, opposing parties, compliance clearance gates, time logs, and linked legal documents.
 
 ### Court Calendaring & Task Management
-<p align="center">
-  <img src="Assets/04-calendar.png" alt="Court and Appointment Calendar" width="49%">
-  <img src="Assets/05-tasks.png" alt="Team Task Workspace" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/04-calendar.png" alt="Court and Appointment Calendar" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/05-tasks.png" alt="Team Task Workspace" width="100%"></td>
+</tr></table>
 
 - **Legal Calendar & Hearing Schedule:** Time-zoned calendar tracking court dates, preliminary hearings, client consultations, and statutory filing deadlines with agenda drill-down views.
 - **Matter-Linked Task Management:** Assigns priority-graded tasks (Urgent, High, Normal, Low) across matter teams with strict statutory limitation date tracking and completion audits.
 
 ### Client Management & Secure Client Portal
-<p align="center">
-  <img src="Assets/08-contacts.png" alt="Client Directory" width="49%">
-  <img src="Assets/09-client-detail.png" alt="Client Detail and Portal Invitation" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/08-contacts.png" alt="Client Directory" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/09-client-detail.png" alt="Client Detail and Portal Invitation" width="100%"></td>
+</tr></table>
 <p align="center">
   <img src="Assets/12-client-portal.png" alt="Dedicated Secure Client Portal">
 </p>
@@ -55,19 +55,19 @@ Stass is a comprehensive, security-first legal practice management system and de
 - **Dedicated Secure Client Portal:** Independent, isolated web interface for clients to review shared matter updates, upload requested identity documents, sign engagement agreements, and review billing statements without accessing internal firm infrastructure.
 
 ### Regulatory Compliance, AML & Sanctions Screening
-<p align="center">
-  <img src="Assets/10-compliance.png" alt="Compliance Workspace" width="49%">
-  <img src="Assets/14-report-a-concern.png" alt="Confidential Concern Reporting" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/10-compliance.png" alt="Compliance Workspace" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/14-report-a-concern.png" alt="Confidential Concern Reporting" width="100%"></td>
+</tr></table>
 
 - **Compliance Workspace:** Centralized AML, sanctions screening, and regulatory export tools. Directly integrates with the official UK Sanctions List CSV to perform automated entity screening and enforce operational legal holds.
 - **Confidential Concern Reporting:** Protected reporting workflow allowing fee earners to report suspected AML, terrorist financing, or professional conduct risks directly to the Nominated Officer with full confidentiality protection.
 
 ### Firm Governance, Policies & Interactive Knowledge Base
-<p align="center">
-  <img src="Assets/11-hr-workspace.png" alt="HR Workspace" width="49%">
-  <img src="Assets/13-policies-guidance.png" alt="Practice Policies and Guidance" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/11-hr-workspace.png" alt="HR Workspace" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/13-policies-guidance.png" alt="Practice Policies and Guidance" width="100%"></td>
+</tr></table>
 <p align="center">
   <img src="Assets/15-help-and-guides.png" alt="Help and Operational Guides">
 </p>
